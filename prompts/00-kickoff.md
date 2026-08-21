@@ -55,7 +55,7 @@ Attach your data file, then paste this.
 ## Path B: I'm still looking
 
 You have 44 files in a repo and no idea which one to open. That's a completely
-normal place to be at 0:45. Here's the zero-decision version.
+normal place to be at 0:30. Here's the zero-decision version.
 
 ### Attach exactly these three files
 
