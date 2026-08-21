@@ -152,7 +152,7 @@ Want to dig further than the six prompts above?
 
 ---
 
-## If you're behind at 1:05
+## If you're behind at 0:50
 
 Whichever path you took, say this and keep moving:
 
