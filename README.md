@@ -1,6 +1,6 @@
 # Idea to Production-Ready Product
 
-**ProductTank Canberra x Claude Community Australia**
+**=Claude Community Australia x ProductTank Canberra**
 A 2-hour workshop. Turn one slice of the 2026-27 ACT Budget into a live civic
 app, using [Budget Buddy](https://knga10.github.io/civiccanberra) as the template.
 
@@ -63,15 +63,16 @@ not during.
 | Time | | |
 |---|---|---|
 | 0:00 | Welcome, framing, pair up | 10 min |
-| 0:10 | What's actually in the 13 files | 10 min |
-| 0:20 | Budget Buddy teardown | 15 min |
-| 0:35 | Pick your lane, scope your idea | 10 min |
-| 0:45 | **Sprint 1: get the data out** | 20 min |
-| 1:05 | **Data checkpoint** | 5 min |
-| 1:10 | **Sprint 2: build and deploy** | 25 min |
-| 1:35 | Show and tell, then wrap | 25 min |
+| 0:10 | What's actually in the 13 files | 5 min |
+| 0:15 | Budget Buddy teardown | 10 min |
+| 0:25 | Pick your lane, scope your idea | 10 min |
+| 0:35 | **Sprint 1: get the data out** | 20 min |
+| 0:55 | **Data checkpoint** | 5 min |
+| 1:00 | **Sprint 2: build and deploy** | 35 min |
+| 1:35 | Show and tell | 25 min |
+| 2:00 | Q&A, then wrap | 15 min |
 
-Two hard gates: **a data file you can open by 1:05**, and **a live URL by 1:30**.
+Two hard gates: **a data file you can open by 0:55**, and **a live URL by 1:30**.
 Polish comes after both.
 
 ---
