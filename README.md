@@ -1,6 +1,6 @@
 # Idea to Production-Ready Product
 
-**=Claude Community Australia x ProductTank Canberra**
+**Claude Community Australia x ProductTank Canberra**
 A 2-hour workshop. Turn one slice of the 2026-27 ACT Budget into a live civic
 app, using [Budget Buddy](https://knga10.github.io/civiccanberra) as the template.
 
