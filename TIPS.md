@@ -20,11 +20,11 @@ file uploads and code execution, are on every plan.
 | Build and preview HTML in the chat | Yes | Yes |
 | Models | Haiku 4.5, Sonnet 5 | adds Opus 5 and Fable 5 |
 | Usage per session | baseline | at least 5x |
-| **Projects** (persistent uploaded files across chats) | **No** | Yes |
+| **Projects** (persistent uploaded files across chats) | Yes | Yes |
 | **Claude Code** (terminal) | **No** | Yes |
 | Cowork | No | Yes |
 
-**What you actually lose on free:** Projects and Claude Code, plus you'll hit
+**What you actually lose on free:** Claude Code, plus you'll hit
 usage limits sooner. Neither is fatal today. You just attach the .docx to a
 normal chat instead of parking it in a Project.
 
