@@ -10,6 +10,11 @@ burn 40 minutes browsing and never build anything.
 **So: 10 minutes of exploring, hard stop, then commit to one question.** Set a
 timer. The prompts below are designed to get you to a decision fast.
 
+**Just want one paste and a fast answer?** Use
+[`00-kickoff.md` Path B](00-kickoff.md#path-b-im-still-looking) instead. It
+names the three files to attach and does this in one message. Come back here
+if you want to dig deeper.
+
 ---
 
 ## Start here: explore the pre-extracted CSVs, not the documents
