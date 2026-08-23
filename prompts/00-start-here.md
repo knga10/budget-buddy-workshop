@@ -61,6 +61,8 @@ Not sure which? `data/MANIFEST.md` lists all 13. If you want a fast answer:
 
 ### Paste 1: map the document
 
+> I'm at a 2-hour workshop building a small civic web app from the 2026-27 ACT
+> Budget. Here's my whole situation, so you don't have to ask.
 > I've attached a statement from the 2026-27 ACT Budget.
 > **Don't extract anything yet.**
 >
@@ -121,7 +123,7 @@ promises, which is most of what's interesting in a budget.
 
 ### Paste 1: find me something worth building
 
-> I'm at a 2-hour workshop. In about 90 minutes I need to have shipped a small
+> I'm at a 2-hour workshop. In about 60 minutes I need to have shipped a small
 > web app built on one slice of the 2026-27 ACT Budget. **I don't have an idea
 > yet and I don't want to waste time browsing.** Help me find one, fast.
 >
