@@ -198,8 +198,11 @@ You have a brief. Paste this and you're building.
 >
 > Start with step 1.
 
-**Next files:** [`01-extract.md`](01-extract.md) → [`02-verify.md`](02-verify.md)
-→ [`03-build.md`](03-build.md) → [`04-deploy.md`](04-deploy.md).
+**Next:** open [`01-extract.md`](01-extract.md) for the paste that gets your
+data out. **Unless you took Path 3**, in which case your data is already
+extracted, so skip straight to [`02-verify.md`](02-verify.md).
+
+Then: [`03-build.md`](03-build.md) → [`04-deploy.md`](04-deploy.md).
 
 ---
 
