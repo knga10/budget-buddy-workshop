@@ -20,11 +20,11 @@ file uploads and code execution, are on every plan.
 | Build and preview HTML in the chat | Yes | Yes |
 | Models | Haiku 4.5, Sonnet 5 | adds Opus 5 and Fable 5 |
 | Usage per session | baseline | at least 5x |
-| **Projects** (persistent uploaded files across chats) | Yes | Yes |
+| **Projects** (persistent uploaded files across chats) | **No** | Yes |
 | **Claude Code** (terminal) | **No** | Yes |
 | Cowork | No | Yes |
 
-**What you actually lose on free:** Claude Code, plus you'll hit
+**What you actually lose on free:** Projects and Claude Code, plus you'll hit
 usage limits sooner. Neither is fatal today. You just attach the .docx to a
 normal chat instead of parking it in a Project.
 
@@ -124,7 +124,7 @@ minutes later.
 
 ## Stage 2: Get the data out
 
-**The target by 1:05 is a file you can open.** Not a UI. A CSV or a JSON.
+**The target by 0:55 is a file you can open.** Not a UI. A CSV or a JSON.
 
 **You do not need to know Python for this.** Full routes are in
 [`EXTRACTING-DATA.md`](EXTRACTING-DATA.md). The short version:
@@ -319,7 +319,7 @@ Inspect → Console) and paste the red text. That's usually the whole answer.
 - **Test on your phone, not the laptop.** Open your live GitHub Pages URL on
   your phone before you polish anything. Tables overflow sideways and buttons
   get too small, and you won't see either at 1440px.
-- **Deploy at minute 20 of 25, not at the end.** Upload to GitHub, wait 90
+- **Deploy at 1:25, not at the end of the sprint.** Upload to GitHub, wait 90
   seconds, load the URL. If something's broken you still have five minutes.
   If you deploy last, a broken deploy means no demo.
 - **Ask Claude to critique it.** "You're a Canberra resident with no budget

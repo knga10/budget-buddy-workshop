@@ -33,8 +33,7 @@ Is your table in the Budget Outlook (chapters 1 to 4)?
 
 ## Route 1: Use the spreadsheet Treasury already published
 
-**Almost nobody knows this exists.** Alongside the PDFs and Word files, ACT
-Treasury publishes **"2026-27 ACT Budget tables [XLS 172 KB]"** on the
+Alongside the PDFs and Word files, ACT Treasury publishes **"2026-27 ACT Budget tables [XLS 172 KB]"** on the
 [Budget Papers and Statements page](https://www.treasury.act.gov.au/budget/budget-2026-27/budget-papers-and-statements).
 It's in the repo at `data/source/ACT-Government-2026-27-Budget-tables.xlsx`.
 
