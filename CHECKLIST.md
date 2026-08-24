@@ -13,6 +13,8 @@ send to a friend.
 - [ ] **The footer names the exact table and statement** your figures came from
 - [ ] **A caveat.** Illustrative guide, not advice or an eligibility determination
 - [ ] **No console errors.** Right click → Inspect → Console. It should be empty
+- [ ] **Hard-refreshed once after your last upload** (`Cmd+Shift+R`). A cached
+      `data.js` looks exactly like broken data
 
 ## Should have
 

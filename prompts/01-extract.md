@@ -46,9 +46,10 @@ repo at `data/source/ACT-Government-2026-27-Budget-tables.xlsx`.
 > the [household name and suburb] carried down as their own columns.
 > Then show me the first five rows so I can check it.
 
-**Doesn't cover Statements A to H.** If your table is an accountability
-indicator, a changes-to-appropriation table, or a per-directorate infrastructure
-program, it isn't in here. Use Route 2.
+**Doesn't repeat Statements A to H**, but it does hold whole-of-government
+versions of some of their tables. Accountability indicators have no equivalent
+at all. Check [`data/CROSSWALK.md`](../data/CROSSWALK.md) before you give up on
+this route and start copying out of Word.
 
 ---
 

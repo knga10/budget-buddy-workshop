@@ -39,7 +39,9 @@ A free Claude account is enough.
 │   ├── markdown/              all 13 statements as markdown, with heading anchors
 │   └── extracted/             five pre-extracted CSVs, your safety net
 │
-├── template/                  your starting point: index.html + data.js
+├── index.html                 your app. This is what your live URL serves
+├── data.js                    your data. Empty until you fill it
+├── ANNOTATED.md               walkthrough of index.html, line by line
 ├── examples/                  a finished build, for reference
 ├── reference/budget-buddy-v1/ the app we tear down at 0:20
 ├── prompts/                   00-start-here, then extract, verify, build, deploy

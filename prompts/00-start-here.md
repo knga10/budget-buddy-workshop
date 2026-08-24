@@ -61,8 +61,6 @@ Not sure which? `data/MANIFEST.md` lists all 13. If you want a fast answer:
 
 ### Paste 1: map the document
 
-> I'm at a 2-hour workshop building a small civic web app from the 2026-27 ACT
-> Budget. Here's my whole situation, so you don't have to ask.
 > I've attached a statement from the 2026-27 ACT Budget.
 > **Don't extract anything yet.**
 >
@@ -81,7 +79,44 @@ Not sure which? `data/MANIFEST.md` lists all 13. If you want a fast answer:
 You now have a map of the document and a recommendation. Question 3 is doing the
 real work: it stops you picking the biggest table instead of the most useful one.
 
-### Paste 2: confirm the shape and get a brief
+### Paste 2: check whether your table already exists, cleanly
+
+**Do this before you extract anything out of Word.** Some statement tables have
+a whole-of-government twin in Treasury's spreadsheet, already tidy. If yours
+does, you skip the messiest part of the job.
+
+**Also attach `data/source/ACT-Government-2026-27-Budget-tables.xlsx`**, then:
+
+> I've now also attached the official ACT Budget tables spreadsheet.
+> I'm interested in Table [N] in the statement.
+>
+> Don't extract anything yet. Tell me:
+> 1. Does the spreadsheet contain an equivalent of this table? Name the sheet and
+>    table number if so.
+> 2. If it does, what's **in the statement version but missing from the
+>    spreadsheet version**? Be specific about columns.
+> 3. Which should I extract from, and do I need both?
+>
+> Be honest if there is no equivalent. "No twin, use the statement" is a useful
+> answer.
+
+**The quick version, if you'd rather just look it up:**
+
+| Your table is about | Where to get it |
+|---|---|
+| Households, concessions, cost of living | Spreadsheet, sheet `Chapter 3.3` |
+| Money for a new initiative | Spreadsheet, **Table 3.2.2** (35 agencies) |
+| Capital works dollars | Spreadsheet, **Table 3.7.2**. But **completion dates are Word only** |
+| Whole-of-government financials | Spreadsheet, `Chapter 4.1` |
+| What an agency **promised to deliver** | **No twin.** Word or markdown only |
+
+Full detail, including what each twin leaves out:
+[`data/CROSSWALK.md`](../data/CROSSWALK.md).
+
+**Never add figures from both sources together.** They split the same money
+differently. Pick one and say which in your footer.
+
+### Paste 3: confirm the shape and get a brief
 
 > Let's go with Table [N].
 >
@@ -123,7 +158,7 @@ promises, which is most of what's interesting in a budget.
 
 ### Paste 1: find me something worth building
 
-> I'm at a 2-hour workshop. In about 60 minutes I need to have shipped a small
+> I'm at a 2-hour workshop. In about 90 minutes I need to have shipped a small
 > web app built on one slice of the 2026-27 ACT Budget. **I don't have an idea
 > yet and I don't want to waste time browsing.** Help me find one, fast.
 >

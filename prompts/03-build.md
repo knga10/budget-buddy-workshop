@@ -45,5 +45,6 @@ dashboard nobody wants. Fix the brief before you write a build prompt.
   something half-built in twenty.
 - **Say what not to build:** no login, no analytics, no backend, nothing stored
   outside the browser.
-- **Start from `template/index.html`.** It already has the pinned CDN versions,
-  the `data.js` pattern, the citation footer, and the `display:block` fix for bars.
+- **Start from `index.html` at the repo root.** It already has the pinned CDN
+  versions, the `data.js` pattern, the citation footer, and the `display:block`
+  fix for bars. Your live URL serves it directly, no subfolder.

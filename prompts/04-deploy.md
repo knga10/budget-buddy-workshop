@@ -8,10 +8,12 @@ last, a broken deploy means no demo.
 
 1. Go to your repo on github.com
 2. Click **Add file** → **Upload files**
-3. Drag in `index.html` and `data.js`
-4. Scroll down, click **Commit changes**
-5. Wait about 90 seconds
-6. Open `https://YOUR-USERNAME.github.io/my-budget-app/`
+3. Drag in `index.html` and `data.js`. **Drop them at the repo root**, the same
+   place the existing ones are. Not in a subfolder
+4. It will ask if you want to replace the existing files. Yes
+5. Scroll down, click **Commit changes**
+6. Wait about 90 seconds
+7. Open `https://YOUR-USERNAME.github.io/my-budget-app/`
 
 ## Check these two things on your phone
 
@@ -19,6 +21,19 @@ last, a broken deploy means no demo.
 - The buttons are big enough to tap
 
 **Only now** go back and adjust spacing and colours.
+
+## If it says "no data" after you just uploaded data.js
+
+**Hard refresh. `Cmd+Shift+R` on Mac, `Ctrl+Shift+R` on Windows.**
+
+This catches almost everyone, once. Your browser cached the empty `data.js`
+from the pre-work, and your filename hasn't changed, so it happily serves you
+the old one alongside your new `index.html`. The result looks exactly like your
+data failed to load.
+
+**Check it properly before you debug anything else:** open
+`https://YOUR-USERNAME.github.io/my-budget-app/data.js` directly. If you can see
+your own rows in it, the file is fine and it was only the cache.
 
 ## If it 404s
 
